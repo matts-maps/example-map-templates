@@ -1,2 +1,2 @@
-# example-map-templates
+# Example map templates
 Working examples of templates
